@@ -12,17 +12,17 @@ Styled Components
 VS Code com ESLint, Prettier e EditorConfig
 
 Instalação e uso
-# Abra um terminal e copie este repositório com o comando
+Abra um terminal e copie este repositório com o comando:
 De um git clone no projeto
-# ou use a opção de download do zip.
+ou use a opção de download do .zip .
 
-# Entre na pasta usando o terminal com
+Entre na pasta usando o terminal com:
 cd moveIt
 
-# Instale as dependências
+Instale as dependências:
 yarn install
 
-# Rode o aplicação
+Rode o aplicação:
 yarn dev
 
-# Acesse http://localhost:3000 no seu navagador.
+Acesse http://localhost:3000 no seu navagador💜.
