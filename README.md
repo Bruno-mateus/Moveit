@@ -5,11 +5,10 @@ O Move.it é um App que utiliza a técnica de pomodoro, com o objetivo de melhor
 # Tecnologias
 Tecnologias e ferramentas utilizadas no desenvolvimento do projeto:
 
-React
-Next.js
-TypeScript
-Styled Components
-VS Code com ESLint, Prettier e EditorConfig
+React,
+Next.js,
+TypeScript,
+css
 
 # Instalação e uso
 Abra um terminal e copie este repositório com o comando:
