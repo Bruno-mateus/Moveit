@@ -6,7 +6,8 @@ O Move.it é um App que utiliza a técnica de pomodoro, com o objetivo de melhor
 
 # responsive Web
 ![fb488d13c9cd2b38a44f3c340d2bc78c](https://user-images.githubusercontent.com/63961258/110005415-369da700-7cf7-11eb-90a6-06c40852adec.gif)
-https://gyazo.com/bf7e09c3d1dd76551c29bc513058afa5
+![bf7e09c3d1dd76551c29bc513058afa5](https://user-images.githubusercontent.com/63961258/110006596-9ba5cc80-7cf8-11eb-99ed-e8cbcf5d199c.png)
+
 
 
 # Tecnologias
